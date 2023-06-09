@@ -8,3 +8,4 @@ I use the Katalon Studio application during training by making several kinds of 
 3. User Bargain in Detail Product
 
 In the first test case, there is negative testing and positive testing. Apart from that, there is also a Test Suite and Bug Reporting of the tests that were run.
+File of Project in Katalon available in Master branch
